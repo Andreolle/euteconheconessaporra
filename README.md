@@ -1,9 +1,6 @@
-# tomanocupacero™️
-<div style="text-align: center">
-    <img src="./tomanocupacero.jpeg" height="300"/>
-</div>
+# EU TE CONHEÇO NESSA PORRA
 
-> Tmnc pacero to chei de ódio [video](https://twitter.com/mcpozedorodo/status/1194809058194264064?lang=en)
+> EU TE CONHEÇO NESSA PORRA [video](https://www.youtube.com/watch?v=7Rip7XYtz-g)
 
 ## Compatibilidade
 
@@ -14,15 +11,15 @@
 ## Rodando com [npx](https://www.npmjs.com/package/npx)
 Rode o comando:
 
-    npx tomanocupacero
+    npx euteconheconessaporra
 
 
 ## Rodando via CLI
-Instale globalment e rode o comando:
+Instale globalmente e rode o comando:
 
-    npm install -g tomanocupacero
+    npm install -g euteconheconessaporra
 
-    tomanocupacero
+    euteconheconessaporra
 
 
 ## Veja também
@@ -31,3 +28,4 @@ Instale globalment e rode o comando:
  - [xFiles](https://github.com/BrOrlandi/xfiles/)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
  - [Omaewa](https://github.com/BrOrlandi/omaewa/)
+ - [tomanocupacero](https://github.com/imdanielpiva/tomanocupacero)

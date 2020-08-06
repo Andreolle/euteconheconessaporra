@@ -1,28 +1,29 @@
 {
-  "name": "tomanocupacero",
+  "name": "euteconheconessaporra",
   "version": "0.0.4",
-  "description": "Toma no cu pacero eu to chei de odio",
+  "description": "oh vai tomar no teu cu hein maluco. vai tomar no teu cu hein o filha da puta. vai te fuder hein. vai se fuder hein. vai pra casa do caralho hein. eu te conheço nessa porra? eu sei quem tu eh nessa porra? eu sei onde tu mora nessa porra? tu ja me falou comigo nessa porra?",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/imdanielpiva/tomanocupacero.git"
+    "url": "git+ssh://git@github.com/Andreolle/euteconheconessaporra.git"
   },
   "keywords": [
-    "mc",
-    "poze"
+    "zapzap",
+    "euteconheço",
+    "porra"
   ],
-  "author": "Daniel Piva <imdanielpiva@gmail.com>",
+  "author": "Andreolle Dantas <andreolle18@gmail.com>",
   "license": "MIT",
   "bin": {
-    "tomanocupacero": "./src/cli.js"
+    "euteconheconessaporra": "./src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/imdanielpiva/tomanocupacero/issues"
+    "url": "https://github.com/Andreolle/euteconheconessaporra/issues"
   },
-  "homepage": "https://github.com/imdanielpiva/tomanocupacero#readme",
+  "homepage": "https://github.com/Andreolle/euteconheconessaporra#readme",
   "dependencies": {
     "meow": "^7.0.1"
   }
