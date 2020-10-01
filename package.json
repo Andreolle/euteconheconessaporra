@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/Andreolle/euteconheconessaporra#readme",
   "dependencies": {
-    "meow": "^7.0.1"
+    "meow": "^7.1.1"
   }
 }
